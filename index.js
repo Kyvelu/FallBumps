@@ -3,7 +3,7 @@ const {Panel} = require("@akarui/aoi.panel")
 const aoijs = require("aoi.js")
 
 const bot = new aoijs.Bot({
-	token: "MTA0Mjg4NDIyNjcyODYxMTkwMg.GtrG6R.Mq2yDXpPH4LREiQ_A5s8weJLzQkJ_JqotOBnbg",
+	token: "[TOKEN]",
 	prefix: "fb!",
 	intents: "all"
 })
