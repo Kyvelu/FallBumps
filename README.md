@@ -11,7 +11,7 @@
 ---
 
 ## Disclaimer
-Fall Bumps has been shut down. All functionality is unavailable and not offered.
+Fall Bumps has been shut down due to AOI.Js updating. All functionality is unavailable and support is not offered.
 
 ## License and Copyright
 Released under the [MIT](https://mit-license.org/) license.
