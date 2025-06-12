@@ -12,3 +12,10 @@
 
 ## Disclaimer
 Fall Bumps has been shut down. All functionality is unavailable and not offered.
+
+## License and Copyright
+Released under the [MIT](https://mit-license.org/) license.
+
+This project utilizes [Discord API](https://discord.dev/), [Discord.Js](https://discord.js.org/), [AOI.Js](https://aoi.js.org/), [AOI.Js Music](https://github.com/aoijs/aoi.music), [AOI.Js Panel](https://www.npmjs.com/package/@akarui/aoi.panel), and [CanvaCord](https://www.npmjs.com/package/canvacord).
+
+© 2025 Kyvelu. All rights reserved.
