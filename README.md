@@ -16,6 +16,6 @@ Fall Bumps has been shut down due to AOI.Js updating. All functionality is unava
 ## License and Copyright
 Released under the [MIT](https://mit-license.org/) license.
 
-This project utilizes [Discord API](https://discord.dev/), [Discord.Js](https://discord.js.org/), [AOI.Js](https://aoi.js.org/), [AOI.Js Music](https://github.com/aoijs/aoi.music), [AOI.Js Panel](https://www.npmjs.com/package/@akarui/aoi.panel), and [CanvaCord](https://www.npmjs.com/package/canvacord).
+This project utilizes [Discord API](https://discord.dev/), [Discord.Js](https://discord.js.org/), [AOI.Js](https://aoi.js.org/), and [AOI.Js Panel](https://www.npmjs.com/package/@akarui/aoi.panel).
 
 © 2025 Kyvelu. All rights reserved.
